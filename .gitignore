@@ -1,0 +1,11 @@
+*.RData
+*.Rhistory
+*.Rproj.user
+*.DS_Store
+*.wav
+*.jpg
+*.png
+*.pyc
+./synthesis/python/media
+MATLAB/
+__pycache__
